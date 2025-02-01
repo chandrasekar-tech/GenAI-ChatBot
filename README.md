@@ -4,6 +4,10 @@ This project implements a chatbot using Streamlit for the frontend and LangChain
 
 ## Project Structure
 
+- **`chatbot_backend.py`**: Contains the backend logic for the chatbot, including functions for model invocation, memory management, and conversation handling.
+- **`chatbot_frontend.py`**: Implements the frontend using Streamlit, handling user input and displaying chat history.
+- **`requirements.txt`**: Lists the Python dependencies required for the project.
+- **`.vscode/settings.json`**: Contains VS Code settings for the project.
 
 ## Setup
 
@@ -26,13 +30,6 @@ This project implements a chatbot using Streamlit for the frontend and LangChain
     ```
 
 2. **Interact with the chatbot** through the web interface that opens.
-
-## Files
-
-- **[chatbot_backend.py](http://_vscodecontentref_/6)**: Contains the backend logic for the chatbot, including functions for model invocation, memory management, and conversation handling.
-- **`chatbot_frontend.py`**: Implements the frontend using Streamlit, handling user input and displaying chat history.
-- **`requirements.txt`**: Lists the Python dependencies required for the project.
-- **`.vscode/settings.json`**: Contains VS Code settings for the project.
 
 ## License
 
