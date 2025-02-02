@@ -14,8 +14,8 @@
 - requirements.txt         # Python dependencies
 - .vscode/settings.json    # VS Code settings (optional)
 - src/
-    - chatbot_backend.py   # Backend logic for model invocation, memory management, and conversation handling
-    - chatbot_frontend.py  # Streamlit-based frontend for user interaction
+    - chatbot_backend.py   # Backend logic for model invocation, memory management, and conversation handling.
+    - chatbot_frontend.py  # Streamlit-based frontend for user interaction.
 
 ## Requirements
 - Python 3.8+
