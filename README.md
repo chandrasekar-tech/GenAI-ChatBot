@@ -1,6 +1,6 @@
-# GenAI-ChatBot with Streamlit and LangChain
+# GenAI-Chatbot with Streamlit and LangChain
 
-**GenAI-ChatBot** is a chatbot application that utilizes **Streamlit** for the frontend and **LangChain** for the backend. The chatbot integrates with **AWS Bedrock** for language model interactions, enabling intelligent and dynamic conversations.
+**GenAI-Chatbot** is a chatbot application that utilizes **Streamlit** for the frontend and **LangChain** for the backend. The chatbot integrates with **AWS Bedrock** for language model interactions, enabling intelligent and dynamic conversations.
 
 ## Features
 - Conversational AI chatbot powered by **LangChain**.
@@ -32,7 +32,7 @@ Install the dependencies:
 
 ## Running the Chatbot
 Start the Streamlit application:
-    - streamlit run src/chatbot_frontend.py or python -m streamlit run src/chatbot_frontend.py
+    - streamlit run chatbot_frontend.py or python -m streamlit run chatbot_frontend.py
     - Interact with the chatbot through the web interface that opens in your browser.
 
 ## Configuration
