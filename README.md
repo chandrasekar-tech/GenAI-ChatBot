@@ -16,6 +16,12 @@
 - src/
     - chatbot_backend.py   # Backend logic for model invocation, memory management, and conversation handling
     - chatbot_frontend.py  # Streamlit-based frontend for user interaction
+
+## Requirements
+- Python 3.8+
+- AWS credentials configured in ~/.aws/config and ~/.aws/credentials
+- Refer to the Requirements.txt for other dependencies
+  
 ## Setup
 Clone the repository:
     - git clone <repository-url>
